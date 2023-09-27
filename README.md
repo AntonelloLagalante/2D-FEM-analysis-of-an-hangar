@@ -2,7 +2,7 @@
 
   Project held at the Politecnico di Milano in the exam "Dynamics of Mechanical Systems" held by prof. Bruni. 
   
-The project consists of analysis by finite element method of an hangar structure for aircraft parking.
+FEM (Finite Element Method) analysis of an hangar structure for aircraft parking.
 
 Main required results are:
 - FE model definition of the structure in a certain frequency range
