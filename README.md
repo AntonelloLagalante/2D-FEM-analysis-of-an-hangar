@@ -8,4 +8,4 @@ Main required results are:
 - FE model definition of the structure in a certain frequency range
 - Determination of natural frequencies and modes of vibration
 - Different frequency response functions as a result of different input forces acting on the system at different nodes
-- Design of a modified structure to reduce the clamping moment in one of the two pillars under different restrictions
+- Design of a modified structure to reduce the clamping moment in one of the two pillars under different constraints
